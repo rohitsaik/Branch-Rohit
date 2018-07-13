@@ -1,313 +1,313 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-75:12
-INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-75:12
-INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-75:12
-INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-75:12
-MERGED from [com.android.support:design:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/349e838bdcf372fa567e7c46638c66ed/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8a9123ae6cbde6f1d0517aefc7a9ca9b/AndroidManifest.xml:17:1-27:12
-MERGED from [io.branch.sdk.android:library:2.19.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/library-2.19.0.aar/a1232c500f750e5304a49e8cbbb7425f/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:customtabs:23.3.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/customtabs-23.3.0.aar/1c63d65dd3daefd532b1e5955a4fada0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-ads:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.8.0.aar/cca125bcc959d68401817100fe755c36/AndroidManifest.xml:16:1-18:12
-MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-9.8.0.aar/71c533d0a3509dcf57c223d4e4ca22ed/AndroidManifest.xml:16:1-19:12
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/b15a4ee470338932c5f6cdf67c5a040f/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/329382500f1c7169d4d5e90d1faad536/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/f152385c85bce281a0c79fafecbe11bb/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/ac9ac152072658d24deaac1b0cefbe61/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.8.0.aar/fafc7e3c0de32aa8478978ca09d58d54/AndroidManifest.xml:16:1-28:12
-MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.8.0.aar/4740b26e9b51c210b166456bf6f64b61/AndroidManifest.xml:16:1-19:12
-MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/f4f05b97259363ab56c4b4faefec1558/AndroidManifest.xml:16:1-21:12
-MERGED from [com.google.android.gms:play-services-gass:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.8.0.aar/46fa2f33530f7501c8965764659571ac/AndroidManifest.xml:2:1-5:12
-MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/firebase-common-9.8.0.aar/9e2d3bd6f37825609537c5077403efa7/AndroidManifest.xml:2:1-8:12
-MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/86b66a5dadfec468ba8c2673fbc11380/AndroidManifest.xml:2:1-5:12
-MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/aaef650279fb7d86de983da4885978a0/AndroidManifest.xml:16:1-23:12
-MERGED from [com.android.support:support-v4:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/240161e86c7b207332fc0bbb58c1a514/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-fragment:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/a5ca6145392d1b4b90e661e9ab6dc43f/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-ui:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/f987ac01b8529f2b9f64625c327c5988/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-media-compat:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/de9f7772c549bcb7de040f18cfa177cb/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-utils:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/3a9be5bcfcabb35b58a5df5a8f61ba8b/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-compat:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/f5e7295023b885af8e2abad352ef0bab/AndroidManifest.xml:17:1-27:12
-MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/c45fe64a55a397f7d0c1fc82f19ce27f/AndroidManifest.xml:2:1-13:12
-INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-75:12
-INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-75:12
-INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-75:12
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:2:1-75:12
+MERGED from [com.android.support:design:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\341d46cd862050de2d48631d32315795\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\e889173431050bbd48c4e3dd6d5d19bc\AndroidManifest.xml:17:1-27:12
+MERGED from [io.branch.sdk.android:library:2.19.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\library-2.19.0.aar\6e03b67a42eceb366918c73e19909756\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:customtabs:23.3.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\customtabs-23.3.0.aar\ac34d2b988b6d38573a806a0d9808ad0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.8.0.aar\340a1c2016dbf9c120ce0af23f4dcc48\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\c42e445980dafe2b5b100eaf525b0293\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\eaf1889e07139041febfb65aa27e2be9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\ea29d2b61b8a7c265d6380a02abb7993\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\7d2a06fe1d83d95dab3dd7da7d7fc011\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\660ff90a0c6d5d964f081cb7d5c8afc3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\804bd958efaf83e6e90c90c0dd64060d\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\7b1d13ee4497501088dddc52d1dd7449\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\ed39f2c6fbb80fb8bf45a8f054f0dff3\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\47455a54578972f68ec7cf8705708442\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\206182fd4f9e3410dd53708b0dd17190\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\bcf3882ca03d3e277fff1ab33fd4af5d\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\568deb58e0066a503ef1d15c48077334\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\4969011b8735a747f92dab9826aa40f0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\c0fea6a0e8f01e1d92bf2f66ed6ca02b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\e9fa4b368a5d02f0abe16662f7459cbd\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\1b2cc7d79065ef8782110c5444857369\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\a1b7c22e4a8968370ab2323d42ae22fd\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\a77c457b011de5aa681539363f3167ca\AndroidManifest.xml:17:1-27:12
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\answers-shim-0.0.6.aar\511455427a55a404af3b209688a82526\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:2:1-75:12
 	package
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:3:5-35
-		INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:5:5-32
-		INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:4:5-29
-		INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:7:5-9:41
-INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:7:5-9:41
-INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/349e838bdcf372fa567e7c46638c66ed/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/349e838bdcf372fa567e7c46638c66ed/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8a9123ae6cbde6f1d0517aefc7a9ca9b/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8a9123ae6cbde6f1d0517aefc7a9ca9b/AndroidManifest.xml:21:5-23:78
-MERGED from [io.branch.sdk.android:library:2.19.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/library-2.19.0.aar/a1232c500f750e5304a49e8cbbb7425f/AndroidManifest.xml:7:5-9:41
-MERGED from [io.branch.sdk.android:library:2.19.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/library-2.19.0.aar/a1232c500f750e5304a49e8cbbb7425f/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:customtabs:23.3.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/customtabs-23.3.0.aar/1c63d65dd3daefd532b1e5955a4fada0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:23.3.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/customtabs-23.3.0.aar/1c63d65dd3daefd532b1e5955a4fada0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.8.0.aar/cca125bcc959d68401817100fe755c36/AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-ads:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-ads-9.8.0.aar/cca125bcc959d68401817100fe755c36/AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-9.8.0.aar/71c533d0a3509dcf57c223d4e4ca22ed/AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-9.8.0.aar/71c533d0a3509dcf57c223d4e4ca22ed/AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/b15a4ee470338932c5f6cdf67c5a040f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/b15a4ee470338932c5f6cdf67c5a040f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/329382500f1c7169d4d5e90d1faad536/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/329382500f1c7169d4d5e90d1faad536/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/f152385c85bce281a0c79fafecbe11bb/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/f152385c85bce281a0c79fafecbe11bb/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/ac9ac152072658d24deaac1b0cefbe61/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/ac9ac152072658d24deaac1b0cefbe61/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.8.0.aar/fafc7e3c0de32aa8478978ca09d58d54/AndroidManifest.xml:22:5-42
-MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.8.0.aar/fafc7e3c0de32aa8478978ca09d58d54/AndroidManifest.xml:22:5-42
-MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.8.0.aar/4740b26e9b51c210b166456bf6f64b61/AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.8.0.aar/4740b26e9b51c210b166456bf6f64b61/AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/f4f05b97259363ab56c4b4faefec1558/AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/f4f05b97259363ab56c4b4faefec1558/AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-gass:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.8.0.aar/46fa2f33530f7501c8965764659571ac/AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-gass:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.8.0.aar/46fa2f33530f7501c8965764659571ac/AndroidManifest.xml:3:5-42
-MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/firebase-common-9.8.0.aar/9e2d3bd6f37825609537c5077403efa7/AndroidManifest.xml:3:5-42
-MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/firebase-common-9.8.0.aar/9e2d3bd6f37825609537c5077403efa7/AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/86b66a5dadfec468ba8c2673fbc11380/AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/86b66a5dadfec468ba8c2673fbc11380/AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/aaef650279fb7d86de983da4885978a0/AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/aaef650279fb7d86de983da4885978a0/AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:support-v4:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/240161e86c7b207332fc0bbb58c1a514/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/240161e86c7b207332fc0bbb58c1a514/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/a5ca6145392d1b4b90e661e9ab6dc43f/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/a5ca6145392d1b4b90e661e9ab6dc43f/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/f987ac01b8529f2b9f64625c327c5988/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/f987ac01b8529f2b9f64625c327c5988/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/de9f7772c549bcb7de040f18cfa177cb/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/de9f7772c549bcb7de040f18cfa177cb/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/3a9be5bcfcabb35b58a5df5a8f61ba8b/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/3a9be5bcfcabb35b58a5df5a8f61ba8b/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/f5e7295023b885af8e2abad352ef0bab/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/f5e7295023b885af8e2abad352ef0bab/AndroidManifest.xml:21:5-23:58
-MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/c45fe64a55a397f7d0c1fc82f19ce27f/AndroidManifest.xml:7:5-9:41
-MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/c45fe64a55a397f7d0c1fc82f19ce27f/AndroidManifest.xml:7:5-9:41
-INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:7:5-9:41
-INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:7:5-9:41
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\341d46cd862050de2d48631d32315795\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\341d46cd862050de2d48631d32315795\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\e889173431050bbd48c4e3dd6d5d19bc\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\e889173431050bbd48c4e3dd6d5d19bc\AndroidManifest.xml:21:5-23:78
+MERGED from [io.branch.sdk.android:library:2.19.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\library-2.19.0.aar\6e03b67a42eceb366918c73e19909756\AndroidManifest.xml:7:5-9:41
+MERGED from [io.branch.sdk.android:library:2.19.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\library-2.19.0.aar\6e03b67a42eceb366918c73e19909756\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:customtabs:23.3.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\customtabs-23.3.0.aar\ac34d2b988b6d38573a806a0d9808ad0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:23.3.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\customtabs-23.3.0.aar\ac34d2b988b6d38573a806a0d9808ad0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.8.0.aar\340a1c2016dbf9c120ce0af23f4dcc48\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.8.0.aar\340a1c2016dbf9c120ce0af23f4dcc48\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\c42e445980dafe2b5b100eaf525b0293\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\c42e445980dafe2b5b100eaf525b0293\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\eaf1889e07139041febfb65aa27e2be9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\eaf1889e07139041febfb65aa27e2be9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\ea29d2b61b8a7c265d6380a02abb7993\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\ea29d2b61b8a7c265d6380a02abb7993\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\7d2a06fe1d83d95dab3dd7da7d7fc011\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\7d2a06fe1d83d95dab3dd7da7d7fc011\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\660ff90a0c6d5d964f081cb7d5c8afc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\660ff90a0c6d5d964f081cb7d5c8afc3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\804bd958efaf83e6e90c90c0dd64060d\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\804bd958efaf83e6e90c90c0dd64060d\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\7b1d13ee4497501088dddc52d1dd7449\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\7b1d13ee4497501088dddc52d1dd7449\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\ed39f2c6fbb80fb8bf45a8f054f0dff3\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\ed39f2c6fbb80fb8bf45a8f054f0dff3\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\47455a54578972f68ec7cf8705708442\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\47455a54578972f68ec7cf8705708442\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\206182fd4f9e3410dd53708b0dd17190\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\206182fd4f9e3410dd53708b0dd17190\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\bcf3882ca03d3e277fff1ab33fd4af5d\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\bcf3882ca03d3e277fff1ab33fd4af5d\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\568deb58e0066a503ef1d15c48077334\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\568deb58e0066a503ef1d15c48077334\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\4969011b8735a747f92dab9826aa40f0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\4969011b8735a747f92dab9826aa40f0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\c0fea6a0e8f01e1d92bf2f66ed6ca02b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\c0fea6a0e8f01e1d92bf2f66ed6ca02b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\e9fa4b368a5d02f0abe16662f7459cbd\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\e9fa4b368a5d02f0abe16662f7459cbd\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\1b2cc7d79065ef8782110c5444857369\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\1b2cc7d79065ef8782110c5444857369\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\a1b7c22e4a8968370ab2323d42ae22fd\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\a1b7c22e4a8968370ab2323d42ae22fd\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\a77c457b011de5aa681539363f3167ca\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\a77c457b011de5aa681539363f3167ca\AndroidManifest.xml:21:5-23:58
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\answers-shim-0.0.6.aar\511455427a55a404af3b209688a82526\AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\answers-shim-0.0.6.aar\511455427a55a404af3b209688a82526\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/349e838bdcf372fa567e7c46638c66ed/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\341d46cd862050de2d48631d32315795\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:9:9-38
-		INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:8:9-35
-		INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.8.0.aar/fafc7e3c0de32aa8478978ca09d58d54/AndroidManifest.xml:19:5-66
-MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.8.0.aar/fafc7e3c0de32aa8478978ca09d58d54/AndroidManifest.xml:19:5-66
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\804bd958efaf83e6e90c90c0dd64060d\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\804bd958efaf83e6e90c90c0dd64060d\AndroidManifest.xml:19:5-66
 	android:name
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:11:22-64
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:11:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:12:5-80
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:12:5-80
 	android:name
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:12:22-78
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:12:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:13:5-80
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:13:5-80
 	android:name
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:13:22-77
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:13:22-77
 application
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:15:5-73:19
-MERGED from [com.android.support:design:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/349e838bdcf372fa567e7c46638c66ed/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:design:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/349e838bdcf372fa567e7c46638c66ed/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8a9123ae6cbde6f1d0517aefc7a9ca9b/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/8a9123ae6cbde6f1d0517aefc7a9ca9b/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:customtabs:23.3.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/customtabs-23.3.0.aar/1c63d65dd3daefd532b1e5955a4fada0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:customtabs:23.3.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/customtabs-23.3.0.aar/1c63d65dd3daefd532b1e5955a4fada0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-9.8.0.aar/71c533d0a3509dcf57c223d4e4ca22ed/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-9.8.0.aar/71c533d0a3509dcf57c223d4e4ca22ed/AndroidManifest.xml:18:5-19
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/b15a4ee470338932c5f6cdf67c5a040f/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/b15a4ee470338932c5f6cdf67c5a040f/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/329382500f1c7169d4d5e90d1faad536/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/329382500f1c7169d4d5e90d1faad536/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:transition:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/ac9ac152072658d24deaac1b0cefbe61/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:transition:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/ac9ac152072658d24deaac1b0cefbe61/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.8.0.aar/fafc7e3c0de32aa8478978ca09d58d54/AndroidManifest.xml:23:5-27:19
-MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.8.0.aar/fafc7e3c0de32aa8478978ca09d58d54/AndroidManifest.xml:23:5-27:19
-MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.8.0.aar/4740b26e9b51c210b166456bf6f64b61/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-9.8.0.aar/4740b26e9b51c210b166456bf6f64b61/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/f4f05b97259363ab56c4b4faefec1558/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/f4f05b97259363ab56c4b4faefec1558/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-gass:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.8.0.aar/46fa2f33530f7501c8965764659571ac/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-gass:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-gass-9.8.0.aar/46fa2f33530f7501c8965764659571ac/AndroidManifest.xml:4:5-19
-MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/firebase-common-9.8.0.aar/9e2d3bd6f37825609537c5077403efa7/AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/firebase-common-9.8.0.aar/9e2d3bd6f37825609537c5077403efa7/AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/86b66a5dadfec468ba8c2673fbc11380/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/86b66a5dadfec468ba8c2673fbc11380/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/aaef650279fb7d86de983da4885978a0/AndroidManifest.xml:19:5-21:19
-MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/aaef650279fb7d86de983da4885978a0/AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/240161e86c7b207332fc0bbb58c1a514/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/240161e86c7b207332fc0bbb58c1a514/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/a5ca6145392d1b4b90e661e9ab6dc43f/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/a5ca6145392d1b4b90e661e9ab6dc43f/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/f987ac01b8529f2b9f64625c327c5988/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/f987ac01b8529f2b9f64625c327c5988/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/de9f7772c549bcb7de040f18cfa177cb/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/de9f7772c549bcb7de040f18cfa177cb/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/3a9be5bcfcabb35b58a5df5a8f61ba8b/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/3a9be5bcfcabb35b58a5df5a8f61ba8b/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/f5e7295023b885af8e2abad352ef0bab/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.2.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/f5e7295023b885af8e2abad352ef0bab/AndroidManifest.xml:25:5-20
-MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/c45fe64a55a397f7d0c1fc82f19ce27f/AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/c45fe64a55a397f7d0c1fc82f19ce27f/AndroidManifest.xml:11:5-20
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:15:5-73:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\341d46cd862050de2d48631d32315795\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\341d46cd862050de2d48631d32315795\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\e889173431050bbd48c4e3dd6d5d19bc\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\e889173431050bbd48c4e3dd6d5d19bc\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:customtabs:23.3.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\customtabs-23.3.0.aar\ac34d2b988b6d38573a806a0d9808ad0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:23.3.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\customtabs-23.3.0.aar\ac34d2b988b6d38573a806a0d9808ad0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\c42e445980dafe2b5b100eaf525b0293\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\c42e445980dafe2b5b100eaf525b0293\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\eaf1889e07139041febfb65aa27e2be9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\eaf1889e07139041febfb65aa27e2be9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\ea29d2b61b8a7c265d6380a02abb7993\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\ea29d2b61b8a7c265d6380a02abb7993\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\660ff90a0c6d5d964f081cb7d5c8afc3\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\660ff90a0c6d5d964f081cb7d5c8afc3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\804bd958efaf83e6e90c90c0dd64060d\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\804bd958efaf83e6e90c90c0dd64060d\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\7b1d13ee4497501088dddc52d1dd7449\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\7b1d13ee4497501088dddc52d1dd7449\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\ed39f2c6fbb80fb8bf45a8f054f0dff3\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\ed39f2c6fbb80fb8bf45a8f054f0dff3\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\47455a54578972f68ec7cf8705708442\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\47455a54578972f68ec7cf8705708442\AndroidManifest.xml:4:5-19
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\206182fd4f9e3410dd53708b0dd17190\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\206182fd4f9e3410dd53708b0dd17190\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\bcf3882ca03d3e277fff1ab33fd4af5d\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\bcf3882ca03d3e277fff1ab33fd4af5d\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\568deb58e0066a503ef1d15c48077334\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\568deb58e0066a503ef1d15c48077334\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\4969011b8735a747f92dab9826aa40f0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\4969011b8735a747f92dab9826aa40f0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\c0fea6a0e8f01e1d92bf2f66ed6ca02b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\c0fea6a0e8f01e1d92bf2f66ed6ca02b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\e9fa4b368a5d02f0abe16662f7459cbd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\e9fa4b368a5d02f0abe16662f7459cbd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\1b2cc7d79065ef8782110c5444857369\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\1b2cc7d79065ef8782110c5444857369\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\a1b7c22e4a8968370ab2323d42ae22fd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\a1b7c22e4a8968370ab2323d42ae22fd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\a77c457b011de5aa681539363f3167ca\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\a77c457b011de5aa681539363f3167ca\AndroidManifest.xml:25:5-20
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\answers-shim-0.0.6.aar\511455427a55a404af3b209688a82526\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\answers-shim-0.0.6.aar\511455427a55a404af3b209688a82526\AndroidManifest.xml:11:5-20
 	android:label
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:20:9-41
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:20:9-41
 	android:largeHeap
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:17:9-33
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:17:9-33
 	android:icon
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:19:9-45
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:19:9-45
 	android:allowBackup
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:18:9-35
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:18:9-35
 	android:name
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:16:9-63
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:16:9-63
 activity#io.branch.branchster.SplashActivity
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:22:9-44:20
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:22:9-44:20
 	android:screenOrientation
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:25:13-49
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:25:13-49
 	android:label
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:24:13-45
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:24:13-45
 	android:launchMode
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:27:13-44
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:27:13-44
 	android:theme
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:26:13-53
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:26:13-53
 	android:name
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:23:13-63
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:23:13-63
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:29:13-32:29
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:29:13-32:29
 action#android.intent.action.MAIN
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:30:17-69
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:30:25-66
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:31:17-77
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:31:17-77
 	android:name
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:31:27-74
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:31:27-74
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:open+data:host:rohit+data:host:rohit-alternate.test-app.link+data:host:rohit.test-app.link+data:scheme:branchster+data:scheme:branchster+data:scheme:https+data:scheme:https
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:34:13-42:29
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:34:13-42:29
 data
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:35:17-83
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:35:17-83
 	android:host
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:35:46-80
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:35:46-80
 	android:scheme
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:35:23-45
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:35:23-45
 action#android.intent.action.VIEW
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:39:17-69
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:39:17-69
 	android:name
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:39:25-66
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:39:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:40:17-76
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:40:17-76
 	android:name
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:40:27-73
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:40:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:41:17-78
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:41:17-78
 	android:name
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:41:27-75
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:41:27-75
 activity#io.branch.branchster.MonsterViewerActivity
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:46:9-51:20
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:46:9-51:20
 	android:screenOrientation
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:50:13-49
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:50:13-49
 	android:launchMode
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:49:13-48
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:49:13-48
 	android:theme
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:48:13-49
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:48:13-49
 	android:name
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:47:13-70
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:47:13-70
 activity#io.branch.branchster.MonsterCreatorActivity
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:53:9-58:20
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:53:9-58:20
 	android:screenOrientation
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:57:13-49
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:57:13-49
 	android:launchMode
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:56:13-48
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:56:13-48
 	android:theme
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:55:13-49
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:55:13-49
 	android:name
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:54:13-71
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:54:13-71
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:60:9-107
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:60:9-107
 	android:value
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:60:66-105
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:60:66-105
 	android:name
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:60:20-65
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:60:20-65
 meta-data#io.branch.sdk.BranchKey.test
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:64:9-124
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:64:9-124
 	android:value
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:64:64-121
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:64:64-121
 	android:name
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:64:20-63
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:64:20-63
 meta-data#io.branch.sdk.TestMode
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:65:9-81
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:65:9-81
 	android:value
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:65:58-78
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:65:58-78
 	android:name
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:65:20-57
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:65:20-57
 receiver#io.branch.referral.InstallListener
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:68:9-72:20
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:68:9-72:20
 	android:exported
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:68:69-92
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:68:69-92
 	android:name
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:68:19-68
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:68:19-68
 intent-filter#action:name:com.android.vending.INSTALL_REFERRER
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:69:13-71:29
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:69:13-71:29
 action#com.android.vending.INSTALL_REFERRER
-ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:70:17-79
+ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:70:17-79
 	android:name
-		ADDED from /Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:70:25-76
+		ADDED from D:\dev\Rohit interview with Branch\Branchster-Android-No-SDK\app\src\main\AndroidManifest.xml:70:25-76
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.8.0.aar/fafc7e3c0de32aa8478978ca09d58d54/AndroidManifest.xml:20:5-78
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\804bd958efaf83e6e90c90c0dd64060d\AndroidManifest.xml:20:5-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.8.0.aar/fafc7e3c0de32aa8478978ca09d58d54/AndroidManifest.xml:20:22-76
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\804bd958efaf83e6e90c90c0dd64060d\AndroidManifest.xml:20:22-76
 activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.8.0.aar/fafc7e3c0de32aa8478978ca09d58d54/AndroidManifest.xml:25:9-232
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\804bd958efaf83e6e90c90c0dd64060d\AndroidManifest.xml:25:9-232
 	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.8.0.aar/fafc7e3c0de32aa8478978ca09d58d54/AndroidManifest.xml:25:72-181
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\804bd958efaf83e6e90c90c0dd64060d\AndroidManifest.xml:25:72-181
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.8.0.aar/fafc7e3c0de32aa8478978ca09d58d54/AndroidManifest.xml:25:182-230
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\804bd958efaf83e6e90c90c0dd64060d\AndroidManifest.xml:25:182-230
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.8.0.aar/fafc7e3c0de32aa8478978ca09d58d54/AndroidManifest.xml:25:19-71
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\804bd958efaf83e6e90c90c0dd64060d\AndroidManifest.xml:25:19-71
 activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.8.0.aar/fafc7e3c0de32aa8478978ca09d58d54/AndroidManifest.xml:26:9-131
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\804bd958efaf83e6e90c90c0dd64060d\AndroidManifest.xml:26:9-131
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.8.0.aar/fafc7e3c0de32aa8478978ca09d58d54/AndroidManifest.xml:26:92-129
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\804bd958efaf83e6e90c90c0dd64060d\AndroidManifest.xml:26:92-129
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.8.0.aar/fafc7e3c0de32aa8478978ca09d58d54/AndroidManifest.xml:26:19-91
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\804bd958efaf83e6e90c90c0dd64060d\AndroidManifest.xml:26:19-91
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/f4f05b97259363ab56c4b4faefec1558/AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\ed39f2c6fbb80fb8bf45a8f054f0dff3\AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/f4f05b97259363ab56c4b4faefec1558/AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\ed39f2c6fbb80fb8bf45a8f054f0dff3\AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/f4f05b97259363ab56c4b4faefec1558/AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\ed39f2c6fbb80fb8bf45a8f054f0dff3\AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/f4f05b97259363ab56c4b4faefec1558/AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\ed39f2c6fbb80fb8bf45a8f054f0dff3\AndroidManifest.xml:19:19-85
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/firebase-common-9.8.0.aar/9e2d3bd6f37825609537c5077403efa7/AndroidManifest.xml:6:9-175
+ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\206182fd4f9e3410dd53708b0dd17190\AndroidManifest.xml:6:9-175
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/firebase-common-9.8.0.aar/9e2d3bd6f37825609537c5077403efa7/AndroidManifest.xml:6:19-78
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\206182fd4f9e3410dd53708b0dd17190\AndroidManifest.xml:6:19-78
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/firebase-common-9.8.0.aar/9e2d3bd6f37825609537c5077403efa7/AndroidManifest.xml:6:125-149
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\206182fd4f9e3410dd53708b0dd17190\AndroidManifest.xml:6:125-149
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/firebase-common-9.8.0.aar/9e2d3bd6f37825609537c5077403efa7/AndroidManifest.xml:6:150-173
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\206182fd4f9e3410dd53708b0dd17190\AndroidManifest.xml:6:150-173
 	android:name
-		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/firebase-common-9.8.0.aar/9e2d3bd6f37825609537c5077403efa7/AndroidManifest.xml:6:79-124
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\206182fd4f9e3410dd53708b0dd17190\AndroidManifest.xml:6:79-124
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/aaef650279fb7d86de983da4885978a0/AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\568deb58e0066a503ef1d15c48077334\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/aaef650279fb7d86de983da4885978a0/AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\568deb58e0066a503ef1d15c48077334\AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/rohitsai/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/aaef650279fb7d86de983da4885978a0/AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\rudra\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\568deb58e0066a503ef1d15c48077334\AndroidManifest.xml:20:20-65

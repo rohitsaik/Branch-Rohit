@@ -1,4 +1,4 @@
-#Thu Jul 12 21:45:52 PDT 2018
+#Thu Jul 12 23:15:57 CDT 2018
 path.3=classes.dex
 path.2=classes.dex
 path.1=classes.dex
@@ -7,7 +7,7 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.3=/Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/build/intermediates/transforms/dexMerger/debug/12
-base.2=/Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/build/intermediates/transforms/dexMerger/debug/13
-base.1=/Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/build/intermediates/transforms/dexMerger/debug/14
-base.0=/Users/rohitsai/Downloads/Branchster-Android-No-SDK/app/build/intermediates/transforms/dexMerger/debug/11
+base.3=D\:\\dev\\Rohit interview with Branch\\Branchster-Android-No-SDK\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\130
+base.2=D\:\\dev\\Rohit interview with Branch\\Branchster-Android-No-SDK\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\133
+base.1=D\:\\dev\\Rohit interview with Branch\\Branchster-Android-No-SDK\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\131
+base.0=D\:\\dev\\Rohit interview with Branch\\Branchster-Android-No-SDK\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\132

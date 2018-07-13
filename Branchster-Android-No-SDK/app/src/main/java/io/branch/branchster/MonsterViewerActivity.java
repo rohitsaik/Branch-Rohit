@@ -13,7 +13,9 @@ import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.TextView;
+import android.widget.Toast;
 
+import java.util.HashMap;
 import java.util.Map;
 
 import io.branch.branchster.fragment.InfoFragment;
@@ -99,6 +101,29 @@ public class MonsterViewerActivity extends FragmentActivity implements InfoFragm
         if (myMonsterObject != null) {
             String monsterName = getString(R.string.monster_name);
 
+            MonsterPreferences monsterPreferences = MonsterPreferences.getInstance(getApplicationContext());
+            final Map<String, String> branchDict = new HashMap<>();
+            branchDict.put(MonsterPreferences.KEY_BODY_INDEX, monsterPreferences.getBodyIndex()+"");
+            branchDict.put(MonsterPreferences.KEY_COLOR_INDEX, monsterPreferences.getColorIndex()+"");
+            branchDict.put(MonsterPreferences.KEY_FACE_INDEX, monsterPreferences.getFaceIndex()+"");
+            branchDict.put(MonsterPreferences.KEY_MONSTER_DESCRIPTION, monsterPreferences.getMonsterDescription()+"");
+            branchDict.put(MonsterPreferences.KEY_MONSTER_NAME, monsterPreferences.getMonsterName()+"");
+            branchDict.putAll(myMonsterObject.prepareBranchDict());
+
+            ContentMetadata contentMetadata = new ContentMetadata();
+            for (Map.Entry<String, String> entry : branchDict.entrySet()) {
+                contentMetadata.addCustomMetadata(entry.getKey(), entry.getValue());
+            }
+            BranchUniversalObject branchUniversalObject = new BranchUniversalObject()
+                    .setTitle("My Avatar/Monster")
+                    .setContentDescription("The mighty gansta")
+                    .setContentIndexingMode(BranchUniversalObject.CONTENT_INDEX_MODE.PUBLIC)
+                    .setContentMetadata(contentMetadata);
+
+            LinkProperties linkProperties = new LinkProperties()
+                    .setChannel("sms")
+                    .setFeature("sharing");
+
             if (!TextUtils.isEmpty(myMonsterObject.getMonsterName())) {
                 monsterName = myMonsterObject.getMonsterName();
             }
@@ -115,7 +140,18 @@ public class MonsterViewerActivity extends FragmentActivity implements InfoFragm
             // set my monster image
             monsterImageView_.setMonster(myMonsterObject);
 
-            progressBar.setVisibility(View.GONE);
+            branchUniversalObject.generateShortUrl(getApplicationContext(), linkProperties, new Branch.BranchLinkCreateListener() {
+                @Override
+                public void onLinkCreate(String url, BranchError error) {
+                    if(error == null){
+                        Log.i("short url", url);
+                        monsterUrl.setText(url);
+                    }else{
+                        Log.i("Branch SDK", error.toString());
+                    }
+                    progressBar.setVisibility(View.GONE);
+                }
+            });
         } else {
             Log.e(TAG, "Monster is null. Unable to view monster");
         }
@@ -128,9 +164,9 @@ public class MonsterViewerActivity extends FragmentActivity implements InfoFragm
         progressBar.setVisibility(View.VISIBLE);
 
         ContentMetadata contentMetadata = new ContentMetadata();
-        Map<String, String> monsterMetaData = myMonsterObject.monsterMetaData();
+        Map<String, String> branchDict = myMonsterObject.prepareBranchDict();
 
-        for (Map.Entry<String, String> entry : monsterMetaData.entrySet()) {
+        for (Map.Entry<String, String> entry : branchDict.entrySet()) {
             contentMetadata.addCustomMetadata(entry.getKey(), entry.getValue());
         }
 
@@ -142,17 +178,24 @@ public class MonsterViewerActivity extends FragmentActivity implements InfoFragm
                 .setContentMetadata(contentMetadata);
 
         LinkProperties linkProperties = new LinkProperties()
-                .setChannel("facebook")
+                .setChannel("sms")
                 .setFeature("sharing");
 
-        String url = branchUniversalObject.getShortUrl(getApplicationContext(), linkProperties);
+        branchUniversalObject.generateShortUrl(getApplicationContext(), linkProperties, new Branch.BranchLinkCreateListener() {
+            @Override
+            public void onLinkCreate(String url, BranchError error) {
+                if(error == null){
+                    Log.i("Deep link url", url);
 
-        Log.i("Deep link url", url);
-
-        Intent i = new Intent(Intent.ACTION_SEND);
-        i.setType("text/plain");
-        i.putExtra(Intent.EXTRA_TEXT, String.format("Check out my Branchster named %s at %s", myMonsterObject.getMonsterName(), url));
-        startActivityForResult(i, SEND_SMS);
+                    Intent i = new Intent(Intent.ACTION_SEND);
+                    i.setType("text/plain");
+                    i.putExtra(Intent.EXTRA_TEXT, String.format("Check out my Branchster named %s at %s", myMonsterObject.getMonsterName(), url));
+                    startActivityForResult(i, SEND_SMS);
+                }else{
+                    Log.i("Branch SDK", error.toString());
+                }
+            }
+        });
 
         progressBar.setVisibility(View.GONE);
     }
